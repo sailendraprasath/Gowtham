@@ -1,11 +1,11 @@
 import "./App.css";
-
-import Teacher from "./Components/Teacher";
+// import StudentP from "./Pages/StudentP";
+import TeacherP from "./Pages/TeacherP";
 
 function App() {
   return (
     <>
-      <Teacher />
+      <TeacherP />
     </>
   );
 }
